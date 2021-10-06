@@ -1,3 +1,5 @@
+import "./styles/Main.css";
+
 const alturas = [260, 153, 300];
 const imgs = ["./img/260.jpg", "./img/153.jpg", "./img/300.jpg"];
 const Imagen = () => {

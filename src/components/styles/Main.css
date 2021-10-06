@@ -14,3 +14,14 @@ main {
   background-clip: padding-box;
 }
 
+img{
+  margin-bottom: 40px;
+  border-radius: 15px;
+  cursor: zoom-in;
+  background-color: lightgray;
+}
+
+img:hover{
+  filter: opacity(0.9);
+}
+
